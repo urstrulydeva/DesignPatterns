@@ -1,0 +1,3 @@
+Usually builder pattern is preferred when step by step construction of the complex object is done, in a way 
+that the final step will return the object.
+It helps in seperation of construction and representation of a complex object.
