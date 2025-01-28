@@ -1,0 +1,3 @@
+Adapter Pattern:
+-It converts the interface if a class into another interface clients expect
+-Usually, it lets two classes work together that couldn't otherwise, due to incompatible interfaces
